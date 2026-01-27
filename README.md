@@ -69,13 +69,14 @@ Contributions welcome! Help improve ProxyHive by:
 Feel free to open an issue or submit a pull request.
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+This project is licensed under the [GNU License](LICENSE). See the LICENSE file for details.
 
 ## 📫 Support
 
 - 🐞 **Report Bugs**: [GitHub Issues](https://github.com/securevoid/ProxyHive/issues)
 - ☕ **Support Development**: [Ko-fi](https://ko-fi.com/securevoid)
 - 💭 **Discussions**: Use GitHub Discussions for questions and ideas
+
 
 
 
