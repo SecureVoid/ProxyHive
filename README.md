@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Updated_Every_1_Hour-passing-success">
     <img src="https://img.shields.io/github/last-commit/securevoid/ProxyHive.svg">
-    <img src="https://img.shields.io/github/license/securevoid/ProxyHive.svg">
+    <img src="https://img.shields.io/github/license/securevoid/ProxyHive">
   <br>
 </p>
 
@@ -76,6 +76,7 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 - 🐞 **Report Bugs**: [GitHub Issues](https://github.com/securevoid/ProxyHive/issues)
 - ☕ **Support Development**: [Ko-fi](https://ko-fi.com/securevoid)
 - 💭 **Discussions**: Use GitHub Discussions for questions and ideas
+
 
 
 
