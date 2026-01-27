@@ -36,7 +36,7 @@
 ### Installation
 ```bash
 git clone https://github.com/securevoid/ProxyHive.git
-cd PX
+cd ProxyHive
 pip install -r requirements.txt
 ```
 ### Scrape proxies:
@@ -76,6 +76,7 @@ This project is licensed under the [GNU License](LICENSE). See the LICENSE file 
 - 🐞 **Report Bugs**: [GitHub Issues](https://github.com/securevoid/ProxyHive/issues)
 - ☕ **Support Development**: [Ko-fi](https://ko-fi.com/securevoid)
 - 💭 **Discussions**: Use GitHub Discussions for questions and ideas
+
 
 
 
